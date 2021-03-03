@@ -1,4 +1,4 @@
-# stats
+# stats_generic
 TypeScript Pattern (Generics): Variable Data with Generics; Abstract Class.<br/>
 @ Configuring the TS Compiler: See, tsconfig.json ("outDir": "./build", "rootDir": "./src") <br/>
 @ Concurrent Compilation and Execution: npm install nodemon concurrently <br/>
